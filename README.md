@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://dorangesi.github.io/Avignon_hist/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1BJXMMNYTVf9oMX2LrMgzdjKyOPGF72CUtO-_JqGZBdk/edit#gid=1033046795
+- Google Sheets template https://docs.google.com/spreadsheets/d/1BJXMMNYTVf9oMX2LrMgzdjKyOPGF72CUtO-_JqGZBdk/edit#gid=7612388
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
